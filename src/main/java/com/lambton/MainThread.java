@@ -9,6 +9,8 @@ public class MainThread {
         f2.start();
         System.out.println("=======end=======");
 
+        JSONHandling json=new JSONHandling();
+
 
     }
 }
